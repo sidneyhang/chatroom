@@ -1,0 +1,7 @@
+.send-box {
+    margin-top: 20px;
+    display: flex;
+}
+.send-box input {
+    flex-grow: 1;
+}

@@ -1,0 +1,7 @@
+
+    [
+        {"avatar": "./image/li.jpg", "name": "li", "content": "Hello!", "isReceive": true, "createdTime": "2018-05-26 12:42:00"},
+        {"avatar": "./image/yang.jpg", "name": "yang", "content": "Hi!", "isReceive": false, "createdTime": "2018-05-26 12:43:00"},
+        {"avatar": "./image/li.jpg", "name": "li", "content": "你好!", "isReceive": true, "createdTime": "2018-05-26 12:43:10"},
+        {"avatar": "./image/yang.jpg", "name": "yang", "content": "OK", "isReceive": false, "createdTime": "2018-05-26 12:43:20"}
+    ]
